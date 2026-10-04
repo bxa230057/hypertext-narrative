@@ -10,11 +10,16 @@ body {
 
 .post {
 	margin-bottom: 30px;
-	margin-left: 30px;
+	
+}
+
+.post img {
+	width: 100%;
 }
 
 .comment {
 	margin-bottom: 20px;
+	margin-left: 30px;
 }
 
 .username {
