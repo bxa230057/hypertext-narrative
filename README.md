@@ -1,9 +1,9 @@
-# Website Template
+# negativity Loop
 
-Fork and use this template repo (a.k.a. "boilerplate") for any web project
+An example of the negative loop social media can get you in when reading comments. 1 persons negative comment compunds into thousands until the post gets deleted, the feed refreshes, and the loop restarts.
 
-## Use this repo
-
-1. Click "Use this template"
-1. Choose either "Create a new repository" or "[Open in a Codespace](https://codespaces.new/criticalwebdesign/website-template)"
-
+## Pages
+index.html - the main post
+like.html / dislike.html - the two choices
+after.html - the comments that follow
+end.html - the post is gone
