@@ -50,3 +50,8 @@ a:hover {
 .pile * {
 	margin: 2px 0;
 }
+
+.header {
+	color: #6B686B;
+	font-szie: 13px;
+}
