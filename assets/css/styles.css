@@ -48,5 +48,5 @@ a:hover {
 }
 
 .pile * {
-	margin-bottom: 4px;
+	margin-bottom: 4px 0;
 }
