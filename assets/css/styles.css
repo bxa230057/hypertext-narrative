@@ -35,3 +35,14 @@ body {
 a {
 	color: #223FD6;
 }
+
+a:hover {
+	color: white;
+}
+
+.deleted {
+	color: #6B686B;
+	font-size: 20px;
+	text-align: center;
+	margin: 200px auto:
+}
